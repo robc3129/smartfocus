@@ -1,5 +1,5 @@
 {
-    "name": "estina/smartfocus",
+    "name": "robc3129/smartfocus",
     "description": "SmartFocus API",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0" : {
-            "Estina\\SmartFocus" : "src"
+            "Robc3129\\SmartFocus" : "src"
         }
     }
 }
