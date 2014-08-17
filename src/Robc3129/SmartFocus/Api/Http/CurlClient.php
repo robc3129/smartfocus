@@ -1,8 +1,7 @@
 <?php
 
-namespace Estina\SmartFocus\Api\Http;
+namespace Robc3129\SmartFocus\Api\Http;
 
-use Estina\SmartFocus\Api\Http\ClientInterface;
 
 /**
  * Simple object oriented cURL wrapper

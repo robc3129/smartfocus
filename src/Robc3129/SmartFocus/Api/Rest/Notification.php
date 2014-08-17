@@ -1,6 +1,6 @@
 <?php
 
-namespace Estina\SmartFocus\Api\Rest;
+namespace Robc3129\SmartFocus\Api\Rest;
 
 /**
  * Transactional Messaging Trigger API

@@ -1,6 +1,6 @@
 <?php
 
-namespace Estina\SmartFocus\Api\Util;
+namespace Robc3129\SmartFocus\Api\Util;
 
 /**
  * Parser of Smartfocus REST API responses

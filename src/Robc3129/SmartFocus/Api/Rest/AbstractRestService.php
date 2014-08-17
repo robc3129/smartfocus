@@ -1,8 +1,8 @@
 <?php
 
-namespace Estina\SmartFocus\Api\Rest;
+namespace Robc3129\SmartFocus\Api\Rest;
 
-use Estina\SmartFocus\Api\Http\ClientInterface;
+use Robc3129\SmartFocus\Api\Http\ClientInterface;
 
 /**
  * Abstract class for all Rest services

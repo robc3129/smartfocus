@@ -1,6 +1,6 @@
 <?php
 
-namespace Estina\SmartFocus\Api\Http;
+namespace Robc3129\SmartFocus\Api\Http;
 
 /**
  * Interface of SmartFocus API HTTP client
