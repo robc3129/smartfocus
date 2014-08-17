@@ -33,7 +33,7 @@ class Notification extends AbstractRestService
     ) {
 
         if (is_array($dyn)) {
-            $dyn = http_build_query($dyn, '', '|');
+            $dyn = http_build_query($dyn, '', '|'); 
             $dyn = str_replace('=', ':', $dyn);
         }
 
